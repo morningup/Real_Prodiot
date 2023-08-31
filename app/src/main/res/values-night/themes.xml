@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Login" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/deepblue</item>
+        <item name="colorPrimaryVariant">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="TextLarge" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textSize">40dp</item>
+    </style>
+
+    <style name="ToolbarTheme.LargeIcons" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="android:maxButtonHeight">@dimen/toolbar_menu_icon_size_large</item>
+    </style>
+
+</resources>

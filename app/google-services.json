@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152596008849",
+    "project_id": "prodiot",
+    "storage_bucket": "prodiot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152596008849:android:446f1dc68d602f42495430",
+        "android_client_info": {
+          "package_name": "com.example.prodiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152596008849-b0485cebq3kmebmttppsrci032uk7f4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9VBq2bSg5_0oAz64zBbW7u39k_Vb6d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152596008849-b0485cebq3kmebmttppsrci032uk7f4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
